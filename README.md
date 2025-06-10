@@ -2,7 +2,7 @@
 
 ## Descrição
 
-projeto de sistema de Catálogo de Medicamentos e Fabricantes, que permite o gerenciamento completo dessas entidades através de uma API REST. O sistema foi construído com Node.js, Express e Sequelize ORM.
+Projeto de sistema de Catálogo de Medicamentos e Fabricantes, que permite o gerenciamento completo dessas entidades através de uma API REST. O sistema foi construído com Node.js, Express e Sequelize ORM.
 
 A API permite cadastro, consulta e remoção de medicamentos e fabricantes, com vínculos entre eles, respeitando regras de integridade como a impossibilidade de excluir fabricantes com medicamentos associados.
 
